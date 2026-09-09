@@ -18,9 +18,7 @@ Key analytical areas covered:
 
 The analysis follows a structured two-phase roadmap: starting with **Exploratory Data Analysis (EDA)** to understand schemas, dimensions, and baseline metrics, followed by **Advanced Analytics** to evaluate trends, performance, part-to-whole relationships, and customer segmentation.
 
-<p align="center">
-  <img src="docs/Project Road Map.png" alt="SQL Data Analytics Project Roadmap" width="850">
-</p>
+<img width="906" height="357" alt="Project Road Map" src="https://github.com/user-attachments/assets/19b9f582-4a94-4f22-b68e-e03c562349ab" />
 
 ### Key Milestones:
 * **Exploratory Data Analysis (EDA):** Database & Dimensions Exploration, Date Exploration, Key Measures, Magnitude Analysis, and Top/Bottom N Ranking.
